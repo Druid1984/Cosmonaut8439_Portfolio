@@ -8,7 +8,7 @@ This is the first paragraph. This portfolio is built to showcase my projects, sk
 
 This is the second paragraph.
 
-- **Frontend:** ![React Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg) React, ![Next.js Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg) Next.js
+- **Frontend:** ![React Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg =50x50) React, ![Next.js Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg=50x50) Next.js
 - **Styling:** ![Tailwind CSS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg) Tailwind CSS
 - **Build Tool:** ![Vite Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vite.svg) Vite
 - **Linting:** ![ESLint Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eslint.svg) ESLint
