@@ -8,20 +8,15 @@ This is the first paragraph. This portfolio is built to showcase my projects, sk
 
 This is the second paragraph.
 
-<style>
-  .thumbnail-icon {
-    width: 50px;
-    height: 50px;
-  }
-</style>
+## Tech Stack
 
-**Frontend:**
-![React Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg){: class="thumbnail-icon" }
-![Next.js Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg){: class="thumbnail-icon" }
+### Frontend:
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="40" height="40"/> React
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg" alt="Next.js" width="40" height="40"/> Next.js
 
-**Other Tools:**
-![Vite Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vite.svg){: class="thumbnail-icon" }
-![ESLint Icon](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eslint.svg){: class="thumbnail-icon" }
+### Other Tools:
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vite.svg" alt="Vite" width="40" height="40"/> Vite
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eslint.svg" alt="ESLint" width="40" height="40"/> ESLint
 GitHub Pages, etc.
 
 ### How It Was Built
