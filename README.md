@@ -31,8 +31,47 @@ This paragraph explains the steps involved in building your portfolio.
     * Initialized the repository with a README file.
 
 2. **Project Structure:** (Explain your project structure here)
+3. ```
+my-nextjs-project/
+│
+├── pages/
+│   ├── api/
+│   │   └── hello.js
+│   ├── _app.js
+│   └── index.js
+│
+├── public/
+│   ├── favicon.ico
+│   └── vercel.svg
+│
+├── styles/
+│   ├── globals.css
+│   └── Home.module.css
+│
+├── components/
+│   ├── Header.js
+│   └── Footer.js
+│
+├── lib/
+│   └── utils.js
+│
+├── .eslintrc.json
+├── .gitignore
+├── next.config.js
+├── package.json
+└── README.md
+```
 
-3. **Customization:**
+This structure represents a typical Next.js project setup, including:
+
+- `pages/`: Contains your application's pages and API routes
+- `public/`: Stores static assets like images
+- `styles/`: Houses your CSS files
+- `components/`: For reusable React components
+- `lib/`: Utility functions and shared code
+- Configuration files for Next.js, ESLint, etc.
+
+4. **Customization:**
     * Customized the README file using GitHub Flavored Markdown to include personal details, skills, and project links.
     * Used [Magic UI](https://magicui.design/docs/components/icon-cloud) to display my skill sets.
 
