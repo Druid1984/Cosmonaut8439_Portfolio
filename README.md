@@ -4,18 +4,20 @@
 
 This is the first paragraph. This portfolio is built to showcase my projects, skills, and experiences as a software developer. It is designed to be visually appealing and easy to navigate.
 
-### Technologies Used
+# Technologies Used
 
 This is the second paragraph.
 
-Tech Stack
-Frontend:
-Show Image
-Show Image
-Other Tools:
-Show Image
-Show Image
-Show Image
+## Tech Stack
+
+### Frontend:
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Other Tools:
+![Tool1](https://img.shields.io/badge/-Tool1-4B32C3?style=for-the-badge&logo=tool1&logoColor=white)
+![Tool2](https://img.shields.io/badge/-Tool2-646CFF?style=for-the-badge&logo=tool2&logoColor=white)
+![Tool3](https://img.shields.io/badge/-Tool3-222222?style=for-the-badge&logo=tool3&logoColor=white)
 
 ### How It Was Built
 
